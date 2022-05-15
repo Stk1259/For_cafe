@@ -13,12 +13,13 @@ val SecondaryTintColor: Color,
 val HintTextColor: Color,
 val NotificationColor: Color,
 val AccentColor: Color,
+val ActionTextColor: Color
 
 
 )
 val lightpallet = Colors(
     primaryBackground = Color.White,
-    secondaryBackground = Color(0xFFD0CCC7),
+    secondaryBackground = Color(0x10D0CCC7),
     headerTextColor = Color(0xFF311F09),
     primaryTextColor = Color(0xFF59442B),
     TextInvertColor = Color.White,
@@ -27,6 +28,7 @@ val lightpallet = Colors(
     HintTextColor = Color(0xFFA0978C),
     AccentColor = Color(0xFF8AEAFF),
     NotificationColor = Color (0xFFFF3838),
+    ActionTextColor = Color (0xFF0094FF)
 
 
 
